@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Blogs"
+title: "Intro to Impact"
 ---
 # Intro to Impact
 After two short weeks we have our first Monday of the school year (we're off again this Wendesday). The learning blogs activity has been running smoothly; 90% of students have an index page up on the GitHub pages site. They have not been able get their _posts directory up yet. I had debated giving them a repository to fork with the subdirectories setup; the trade-off is time. 
