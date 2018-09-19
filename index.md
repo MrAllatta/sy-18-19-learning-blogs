@@ -3,9 +3,6 @@ layout: default
 title: Mr. Allatta's Learning Blog
 ---
 
-
-
-# Learning Reflections
 <div class="blurb">
 <h1>Welcome to Mr. Allatta's Learning Blog!</h1>
 <p>This will be my home base for sharing learning reflections with my students through out the year. </p>
