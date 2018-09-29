@@ -13,7 +13,7 @@ title: Mr. Allatta's Learning Blog
 
 </div><!-- /.blurb -->
 
-<h1>Learning Reflections</h1>
+<h1> My Learning Reflections</h1>
 
 <ul>
   {% for post in site.posts %}
@@ -23,7 +23,7 @@ title: Mr. Allatta's Learning Blog
   {% endfor %}
 </ul>
 
-# Student Blogs
+# My Student's Blogs
 
 You can read my students learning blogs by finding the links below.
 
