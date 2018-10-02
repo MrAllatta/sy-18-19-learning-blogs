@@ -1,6 +1,13 @@
+#00ADE2,#E7F053,#FAFF6D,#FFB86D,#F28C60
+
+#26ACE0,#E59437,#FFB95E,#F9D09D,#FFCED6
+
+#25AAE1,#51F3FF,#243671,#F7CE18,#C9E01F
+
 body {
     margin: 60px auto;
     width: 70%;
+    color:#FFCED6;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
