@@ -21,3 +21,12 @@ fun japan(size):
   overlay(dot, bkg)
 end
 ```
+
+```scheme
+(define (japan size)
+  (local
+    ((define width (* size 300))
+    (define height (* size 200))
+    (define bkg (rectangle width height "outline" "black")))
+    (overlay dot dkg)))
+````
