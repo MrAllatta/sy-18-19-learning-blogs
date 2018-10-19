@@ -26,7 +26,8 @@ end
 (define (japan size)
   (local
     ((define width (* size 300))
-    (define height (* size 200))
-    (define bkg (rectangle width height "outline" "black")))
+     (define height (* size 200))
+     (define bkg (rectangle width height "outline" "black"))
+     (define dot (circle (* (/ height 2) 3/5) "solid" "red")))
     (overlay dot dkg)))
 ````
