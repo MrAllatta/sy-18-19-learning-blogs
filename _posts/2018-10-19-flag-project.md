@@ -13,7 +13,6 @@ Here is an example of that flag:
 include image 
 
 fun japan(size):
-  # size = 1
   width = size * 300
   height = size * 200
   bkg = rectangle(width, height, "outline", "black")
