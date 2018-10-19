@@ -29,5 +29,5 @@ end
      (define height (* size 200))
      (define bkg (rectangle width height "outline" "black"))
      (define dot (circle (* (/ height 2) 3/5) "solid" "red")))
-    (overlay dot dkg)))
+    (overlay dot bkg)))
 ````
