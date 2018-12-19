@@ -45,9 +45,7 @@ Insert 10-15 line code section here _then delete this instruction_
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
  
-<!---
-Delete this comment and add your writing
--->
+<!--- Delete this comment and add your writing -->
 
 
 ## Program code
