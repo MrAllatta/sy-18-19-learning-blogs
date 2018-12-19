@@ -11,6 +11,8 @@ date: 2018-12-21
 -   What country did you design for? _then delete this instruction_
 -   What grade do you expect? _then delete this instruction_
 
+<!--- Delete this comment and add your writing -->
+
 ## Current output
 
 -   Insert an image that your program currently produces. _then delete this instruction_
@@ -22,6 +24,9 @@ date: 2018-12-21
 ## Describe your process.
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+
+<!--- Delete this comment and add your writing -->
+
 
 ## Explain your code.
 
@@ -39,6 +44,10 @@ Insert 10-15 line code section here _then delete this instruction_
 
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
+ 
+<!---
+Delete this comment and add your writing
+-->
 
 
 ## Program code
