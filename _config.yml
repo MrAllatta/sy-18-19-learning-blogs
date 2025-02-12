@@ -24,7 +24,7 @@ plugins:
 collections:
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug.html # Define how URLs for posts should be structured
+    permalink: {{ site.baseurl }}/:year/:month/:day/:slug.html # Define how URLs for posts should be structured
 
 # Exclude files or directories you don’t want to process
 exclude:
