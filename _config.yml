@@ -1,3 +1,41 @@
-title: Eric Allatta
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title: "Learning Blogs"
+description: "A collection of reflections and student learning blogs from my teaching practice."
+baseurl: "" # Leave empty for root-level deployment
+url: "https://mrallatta.github.io" # Replace with your site URL
+theme: minima # You can change the theme if preferred
+permalink: /:year/:month/:day/:slug.html # Default permalink structure
+author:
+  name: "Mr. Allatta"
+  email: "ericallatta@gmail.com" # Optional
+  url: "https://github.com/MrAllatta" # Optional
+
+# Site settings
+social:
+#  twitter: "your-twitter-handle"
+  github: "MrAllatta"
+#  linkedin: "your-linkedin-profile" # Optional
+
+# Plugins (if using any)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections settings (for organizing blog posts)
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug.html # Define how URLs for posts should be structured
+
+# Exclude files or directories you don’t want to process
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "node_modules"
+  - "bower_components"
+
+# Markdown settings
+markdown: kramdown # Default markdown processor
+
+# Localization settings (optional)
+lang: "en"
