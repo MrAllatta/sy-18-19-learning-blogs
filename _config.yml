@@ -3,7 +3,7 @@ description: "A collection of reflections and student learning blogs from my tea
 baseurl: "/sy-18-19-learning-blogs/" # Leave empty for root-level deployment
 url: "https://mrallatta.github.io" # Replace with your site URL
 theme: minima # You can change the theme if preferred
-permalink: "{{ site.baseurl }}/:year/:month/:day/:slug.html" # Default permalink structure
+permalink: "{{ site.baseurl }}:year/:month/:day/:slug.html" # Default permalink structure
 author:
   name: "Mr. Allatta"
   email: "ericallatta@gmail.com" # Optional
@@ -24,7 +24,7 @@ plugins:
 collections:
   posts:
     output: true
-    permalink: "{{ site.baseurl }}/:year/:month/:day/:slug.html" # Define how URLs for posts should be structured
+    permalink: "{{ site.baseurl }}:year/:month/:day/:slug.html" # Define how URLs for posts should be structured
 
 # Exclude files or directories you don’t want to process
 exclude:
