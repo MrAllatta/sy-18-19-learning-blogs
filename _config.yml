@@ -1,6 +1,6 @@
 title: "Learning Blogs"
 description: "A collection of reflections and student learning blogs from my teaching practice."
-baseurl: "" # Leave empty for root-level deployment
+baseurl: "/sy-18-19-learning-blogs" # Leave empty for root-level deployment
 url: "https://mrallatta.github.io" # Replace with your site URL
 theme: minima # You can change the theme if preferred
 permalink: /:year/:month/:day/:slug.html # Default permalink structure
